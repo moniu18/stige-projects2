@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color:  #d291bc; 
+}
+h1{
+    font-size: 6rem;
+    color:#a6c7d2 ;
+    font-family: cursive;
+    text-shadow: 3px 0 #c4a5ba;
+}
+.w{
+    background-image:url("drum1.jpg");
+    background-size: contain;
+}
+.e{
+    background-image: url("drum2.jpg");
+    background-size: contain;
+}
+.s{
+    background-image:url("cymbal1.jpg");
+    background-size: contain;
+}
+.k{
+    background-image: url("drum3.jpg");
+    background-size: contain;
+}
+.t{
+    background-image: url("cymbal2.jpg");
+    background-size: contain;
+}
+.l{
+    background-image:url("bongo.jpg");
+    background-size: contain;
+}
+.j{
+    background-image:url("drum4.jpg") ;
+    background-size: contain;
+}
+
+.all{
+    margin: 10% auto;
+}
+
+.animation{
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+}
+.button{
+    outline: none;
+    border: 10px solid #404b69;
+    opacity: 0.7;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-size: 40px;
+    font-weight: 900;
+    color: solid black;
+    text-shadow: 3px 0 #dbedf3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin:10px;
+    background-color: white;
+}
