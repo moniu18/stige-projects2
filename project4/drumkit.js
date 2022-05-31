@@ -37,7 +37,7 @@ function sound(key){
                 sound5.play();
                 break;
         case "l":
-                var sound6 = new Audio('music/percussion(4e)2.wav');
+                var sound6 = new Audio('music/drum4.mp3');
                 sound6.play();
                 break;
         case "j":
